@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahjewien.blingsalon.com/sitemap.xml
